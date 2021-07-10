@@ -1,0 +1,5 @@
+'every_other-correct', (0, 70)
+'cumulative_mul-correct', (512, 70)
+'label_squarer-correct', (1024, 70)
+'convert_link-correct', (1536, 70)
+'Link-correct', (2048, 70)
